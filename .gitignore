@@ -80,6 +80,10 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+HierarchicalClustering.ipynb
+KMean.ipynb
+HvPlot.ipynb
+Iris.ipynb
 
 # pyenv
 .python-version
